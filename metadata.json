@@ -1,0 +1,6 @@
+{
+  "name": "CashCount 3D",
+  "description": "AI Indian currency cash counter, cash-in-hand drawer calculator, 3D theme, and denomination manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
